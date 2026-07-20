@@ -8,6 +8,12 @@ I was trying AI image generator.
 
 On this image, bloodtype match is closer to me - this kind of person could represent anything what I do. Artistically, just perfect but I had also another idea..
 
+# Reverse match
+
+![PoorIntrovert](Gfx/PoorIntrovert.png)
+
+But on the other side, I personally am poor, and this is the other side of my gene - how it appears in poverty; as a Pirate, as a fearless Warrior, as the one who keep the Honour hiddenly there. This is other extreme of my gene family - closing this to the previous picture, you get me in the middle, just a gaussian average.
+
 # Artistic match
 
 ![YggdrasilBuddhistMantraScientificBloodTrackDnaAIgen](Gfx/YggdrasilBuddhistMantraScientificBloodTrackDnaAIgen.png)
