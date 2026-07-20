@@ -34,6 +34,15 @@ Also coherent with idea that nobody is suggested to do this "laegna art" literal
 
 ![SecondMainLogo](Gfx/SecondMainLogo.png)
 
+## Elise and Daisy
+
+The universal math: red Cat in Elise, blue Cat in Daisy, in Laegna / SpiReason's Mythos and Art:
+- Represent universal math symbolically, because it's a symbolic myth.
+
+![EliseDaisyStarsAndNightI](Gfx/EliseDaisyStarsAndNightI.png)
+
+This image is the same AI / same target as previous ones, yet with watermark of the AI generator.
+
 # Essentials
 
 ![LaegnaDAO](Gfx/LaegnaDao.png)
@@ -85,3 +94,60 @@ On this image, bloodtype match is closer to me - this kind of person could repre
 ![YggdrasilBuddhistMantraScientificBloodTrackDnaAIgen](Gfx/YggdrasilBuddhistMantraScientificBloodTrackDnaAIgen.png)
 
 This is artistically sound for symbolics but now, cannot be mixed well. I wrote "BloodTrackDnaAIgen" into name to track that while it could be really mix of same three nation - it's not like me or my families mixed, but now Cossack can be Chinese to this degree as well. I can *think* Chinese in many aspects about things like Dao, but I do not look so much like this Cossack family rather it's just a normal crowd, someone on image is mixed specifically three in these amounts ..interesting anyway. And artistic.
+
+# DaisyElise
+
+They symbolize universal math of logarithm and exponent, growing for life and matter, and spirit - which for me is the essential symbolics and archetypes of shared mind, growth up to the life.
+
+<br>
+
+# Elise / Daisy
+
+### Plate I: Stars and Night
+
+<br>
+
+![Plate I: Stars and Night](Gfx/EliseDaisyStarsAndNightI.png)
+
+<br>
+
+### Plate II: Days and Oceans
+
+<br>
+
+![Plate II: Days and Oceans](Gfx/EliseDaisyDaysAndOceansII.png)
+
+<br>
+
+### Plate III A: Life and Depths
+
+<br>
+
+![Plate III A: Life and Depths](Gfx/EliseDaisyLifeAndDepthsIII.png)
+
+<br>
+
+### Plate III B: Light and Depth
+
+<br>
+
+![Plate III B: Light and Depth](Gfx/EliseDaisyLightAndDepthIII.png)
+
+<br>
+
+# Laegna Ferry
+
+Laegna Ferry symbolizes fundamental space of math, life and spirit, when seen through Laegna math:
+- You travel multidimensional realm, it's a fractal ship aligned to integrate all directions into one, single whole: the Laegna Ferry Fractal Head; integrating all the ships downways, aligning even molecules and atoms with ships in their virtual realm, local curvatures of matter and dispositions to mind and math, gain and loss.
+
+## Plate I: Laegna Ferry
+
+![Plate I: Laegna Ferry](Gfx/LaegnaFerryI.png)
+
+## Plate II: Laegna Ferry
+
+![Plate I: Laegna Ferry](Gfx/LaegnaFerryII.jpg)
+
+# Just something which looks like Space
+
+![Looks Like Space](Gfx/LooksLikeSpace.png)
