@@ -1,4 +1,4 @@
-![LaegnaDAO](Gfx/LaegnaDao.htm)
+![LaegnaDAO](Gfx/LaegnaDao.png)
 
 <br>
 
