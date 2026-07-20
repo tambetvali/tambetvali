@@ -1,3 +1,29 @@
+# Combined Logo Symbolic arts
+
+Altough colors are not exactly proper - one could miss it with Tao symbol itself, but it's often used in such context, within some mathematical transistion such as surrealistic arts or math flow. This, also, is commercial, ad-specialized generator which should especially meet criteria of aligning logos, symbols, into professional compositions and even color losses. But this is also: why it has repeated watermark, but it's also open source thing I do - I do not need to show I'm capable to pay, so let them be - if you want clean images, below are the ones which do not contract watermarks :)
+
+## Main Logo
+
+Composition: Laegna, SpiReason, Symbol for their ponegative 4-fold truth.
+- https://laegna.notaku.site/art-and-myth-of-laegna - here, I described this composition as idea for main site or Laegna-SpiReason-corners or landing marks with in websites and ecosystems of others to host their own extensions, work, implementations or implications.
+
+![MainLogo](Gfx/MainLogo.png)
+
+Cats Elise and Daisy operate in metamath realm of Laegna, representing it's mythos:
+- Blue cat - logarithm, decay, long term decay, presented by yellow; but typically she looks rather blue - like it's solution, long term presence, a trickster account.
+- Elise - exponent, growth, extension to local well-being and goal which is already met; it's an exponent.
+- Both grow upwards, but while Daisy so happily lands downwards, Elise is cost-cut to save it here and now, she is the math of love and spirit - daisy is the math of dead matter, but it vibronates the good.
+
+## Second Main Logo
+
+Composition, even more artistic and less literal.
+
+Also coherent with idea that nobody is suggested to do this "laegna art" literally and repeatedly - some horizontal mean can be used to measure unique differences, if you say you are *coherent and standard-creator or standard-aligning domain or paradigm of laegna, or your personal system, solution, view, which could be presented as portals to Laegna or SpiReason by such landing page composition inside your page, subdomain, or particular interest home page*.
+
+![SecondMainLogo](Gfx/SecondMainLogo.png)
+
+# Essentials
+
 ![LaegnaDAO](Gfx/LaegnaDao.png)
 
 <br>
