@@ -135,6 +135,24 @@ They symbolize universal math of logarithm and exponent, growing for life and ma
 
 <br>
 
+# Fractal Collapse
+
+Outwards, space Fractal Collapses to singularity - one you can see in wavelength synchronization in Hilbert's math and mine.
+
+## Plate I: Fractal Collapse as Spatial Condition
+
+![Plate I: Fractal Collapse](Gfx/FractalCollapseI.png)
+
+## Plate II: Fractal Collapse as Form of Art
+
+![Plate II: Fractal Collapse Artpiece](Gfx/FractalCollapseArtII.jpg)
+
+## Plate III: Fractal Collapse as Design and Architecture of Space
+
+![Plate II: Fractal Collapse Artpiece](Gfx/FractalCollapseArtII.jpg)
+
+Notice it's *still* fractally collapsing when you reach Laegna Ship, the symbol of this view of Space, when we study - we travel, backed up by our usage of physics, math, infinitesimal-unit-to-infinity, fragment-instance-to-class in it's parallel logic:
+
 # Laegna Ferry
 
 Laegna Ferry symbolizes fundamental space of math, life and spirit, when seen through Laegna math:
