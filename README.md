@@ -149,7 +149,7 @@ Outwards, space Fractal Collapses to singularity - one you can see in wavelength
 
 ## Plate III: Fractal Collapse as Design and Architecture of Space
 
-![Plate II: Fractal Collapse Artpiece](Gfx/FractalCollapseArtII.jpg)
+![Plate II: Fractal Collapse Artpiece](Gfx/FractalCollapseDesignIII.png)
 
 Notice it's *still* fractally collapsing when you reach Laegna Ship, the symbol of this view of Space, when we study - we travel, backed up by our usage of physics, math, infinitesimal-unit-to-infinity, fragment-instance-to-class in it's parallel logic:
 
