@@ -12,7 +12,7 @@ But on the other side, I personally am poor, and this is the other side of my ge
 
 I was trying AI image generator.
 
-The following images were the original generations used to inspire the final ones before, and are here present for some artistic ideas (and my blood match seems to be less ideal why I termed one image "pure science", because I am not a gaussian curve, but I could use this to show what exactly to correct):
+The following images were the original generations used to inspire the final ones before, and are here present for some artistic ideas (and my blood match seems to be less ideal why I termed one image "pure science" \[because I don't use "not", often, rather I emphasize it's not there, empirically, in such cases of Titles and my own references - it's a certain linguistic match if one can build contextual models and systems - it's the quality present, what matters, not lack of it, by taoist-buddhist\], because I am not a gaussian curve, but I could use this to show what exactly to correct):
 
 # Bloodtype match
 
