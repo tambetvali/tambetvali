@@ -12,6 +12,8 @@ But on the other side, I personally am poor, and this is the other side of my ge
 
 I was trying AI image generator.
 
+The following images were the original generations used to inspire the final ones before, and are here present for some artistic ideas (and my blood match seems to be less ideal why I termed one image "pure science", because I am not a gaussian curve, but I could use this to show what exactly to correct):
+
 # Bloodtype match
 
 ![YggdrasilBuddhistMantra](Gfx/YggdrasilBuddhistMantra.png)
