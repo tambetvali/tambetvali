@@ -12,6 +12,12 @@ This is logo rules applied, with some art - how artistic version of Laegna logo 
 
 ---
 
+To complete this Logo-thing, here is another free logo you can use for SpiReason, for example if you specifically refer to this kind of spiritual reasoning with common cause or tautological presence, along with your logos for your own work you could apply where it makes sense the most, to refer, quote, build and live it:
+
+![SpiReasonsLogo](Gfx/SpiReasonsLogo.png)
+
+---
+
 This is a symbolic image based on all the AI experimentation below, and it rather symbolically than physically bends here (it's hard to find me with Chinese haircut on flying island on sails, but mixing Viking Yggdrasil, Buddhist Menthality, Taoist understanding of flow and surrendelance, I finally could meet this kind of symbolics and genetic / bodytype match is just fine enough for imaginative art, because the artwork itself, importantly and symbolically, has to be an integral view to mental symbolic realm rather than physical complex):
 
 ![MyOwnYggdrasilBuddhistMantra](Gfx/MyOwnYggdrasilBuddhistMantra.png)
