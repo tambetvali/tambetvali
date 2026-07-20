@@ -2,6 +2,8 @@ This is a symbolic image based on all the AI experimentation below, and it rathe
 
 ![MyOwnYggdrasilBuddhistMantra](Gfx/MyOwnYggdrasilBuddhistMantra.png)
 
+This is now the image I really described originally, reinforcement based on initial imagination and drafts which are given below to inspire you. But the image below: it has some historic reality and it's interesting. In the genetic reality, I have *not* forgot how to sit in Cossack way, around a fire.
+
 # Reverse match
 
 ![PoorIntrovert](Gfx/PoorIntrovert.png)
