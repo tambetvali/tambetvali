@@ -14,7 +14,7 @@ This is logo rules applied, with some art - how artistic version of Laegna logo 
 
 To complete this Logo-thing, here is another free logo you can use for SpiReason, for example if you specifically refer to this kind of spiritual reasoning with common cause or tautological presence, along with your logos for your own work you could apply where it makes sense the most, to refer, quote, build and live it:
 
-![SpiReasonsLogo](Gfx/SpiReasonsLogo.png)
+![SpiReasonsLogo](Gfx/SpiReasonsLogoClean.png)
 
 ---
 
