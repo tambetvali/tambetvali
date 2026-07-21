@@ -48,6 +48,8 @@ Woman - born in infinity (repetition, scale, harmony - spirit, the future), crea
 
 Man - born in finity, or zero or even infinity downwards (details, scope, engineering - matter of mind, the past), creating it's infinite projection - how the machine, the material, the local, would scope up in simple drawing of say, circle and triangle - already hard to constitute together so can Laegna math (it's not "non-strict", just keep going).
 
+I use "Legos" for plus infinity where it becomes like graph, and "Logos" for zero-limit / minus infinity; but I also use "Logos" for both in classic way - the image shows all the uses, so the +, is once logos, then legos, to make this mess of terms visible as paradox so that "thumb rules" would not appear - I often take care about counterexamples when first presenting an idea.
+
 ![ManAndWoman](Gfx/ManAndWoman.png)
 
 In exact center there is a child:
