@@ -38,7 +38,7 @@ This is artistic rendering of it, where green at top means *local in infinity* i
 
 ## Artistic imagination
 
-Dimensions grow from subzero to infinity.
+Dimensions grow from subzero to infinity. Longer arrows point closer to infinity - as they multiply in times, if they are unit of their space, the same number of times, infinity the outer comes closer, until it collapses to zero, measured in degrees, harmonic to hilbert's outer space as it's magnitude-tesimal but directional-whole:
 
 ![ArtisticImagination](Gfx/ArtisticImagination.jpg)
 
