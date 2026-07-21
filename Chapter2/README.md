@@ -1,5 +1,11 @@
 Here, I just add some more images.
 
+# Yggdrasil
+
+The Viking logo.
+
+![Yggdrasil](Gfx/Yggdrasil.png)
+
 # AI reflections of Laegna Logo
 
 AI reflections of Logo, which can be used for Laegna-SpiReason and in general sense for my works in all these and related matters.
