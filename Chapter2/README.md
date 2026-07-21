@@ -2,7 +2,7 @@ Here, I just add some more images.
 
 # Yggdrasil
 
-The Viking logo.
+The Viking logo in Laegna colors.
 
 ![Yggdrasil](Gfx/Yggdrasil.png)
 
