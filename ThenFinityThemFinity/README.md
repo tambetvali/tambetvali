@@ -59,4 +59,4 @@ In exact center there is a child:
 
 Spheres of reality layers ..they just look like Art to our minds:
 
-![ManAndWoman](Gfx/ManAndWoman.png)
+![SphereArt](Gfx/SphereArt.jpg)
