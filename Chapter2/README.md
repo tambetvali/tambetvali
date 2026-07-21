@@ -44,9 +44,3 @@ This could harmonize the four colors in soul.
 Artistic, Burning and Melting by AdScull AI as visible on the picture:
 
 ![BurningAndMelting](Gfx/BurningAndMelting.png)
-
-## Projected on Earth
-
-Big projector might be projecting Laegna Dao Logo on Earth.
-
-![EarthShapedLaegnaDaoLogo](Gfx/EarthShapedLaegnaDaoLogo.png)
