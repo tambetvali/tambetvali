@@ -4,7 +4,13 @@ Here, I just add some more images.
 
 The Viking logo in Laegna colors.
 
+## Night Mode Presentation
+
 ![Yggdrasil](Gfx/Yggdrasil.png)
+
+## Day Mode Presentation
+
+![YggdrasilDayMode](Gfx/YggdrasilDayMode.png)
 
 # AI reflections of Laegna Logo
 
