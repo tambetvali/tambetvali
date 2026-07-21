@@ -12,6 +12,14 @@ The Viking logo in Laegna colors.
 
 ![YggdrasilDayMode](Gfx/YggdrasilDayMode.png)
 
+## Cosmic Tree Yggdrasil
+
+I am using Laegna mathematical scales and projections, and showing it as possible extension to physical cosmos (but it's rather illustrative than real, measured, space by physical apparatus and actual Laegna math - it's how the *math itself* projects up from such space as ours, near-symmetrically so what happens after galaxies, space bubble, unity - it must be outwards-reflection of quantum space in exponent light condition what follows, but is this *physically real* or *it's mathematical presentation*, a specific projection with imaginative outside realms; in each case it's inspirative, artistic, and some form of continuation of pattern in complex math spaces, while reality is definitely more miraculous):
+
+![YggdrasilLaegnaMathCosmology](YggdrasilLaegnaMathCosmology.png)
+
+Yggdrasil is world-wide shamanistic tree, and symbolizes Viking culture, especially Viking Shamanism in particular family of symbols / heraldics.
+
 # AI reflections of Laegna Logo
 
 AI reflections of Logo, which can be used for Laegna-SpiReason and in general sense for my works in all these and related matters.
