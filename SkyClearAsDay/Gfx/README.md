@@ -1,0 +1,1 @@
+Gfx for daytime skies.
