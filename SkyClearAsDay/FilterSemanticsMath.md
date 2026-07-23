@@ -1,3 +1,17 @@
+I give you something like source code:
+- AI instructions to generate some product, and the instruction if it practically works, is the practical source of your product.
+  - Some software and especially programming language design should be product of this source compilation:
+    - AI tasks, interactions, model state reconstructions such as docs and tools.
+    - Human generated quality examples.
+    - Variables which can be modified are metatemplates for programming language and it's dialects.
+      - We rather describe the dialect near each module in language which is:
+        - Either strict description, but AI is allowed to do some work it can do strictly, has to prove combinations if possible.
+        - Rather formal description, where we have formally clear identifiers, such as "Use python-style blocks with colon and indents." or "Use Pascal-style "begin" "end" blocks.
+        - Possibly natural language description, but preprocessed by AI to show which dialect was used when testing the code; AI is capable to give formal or strict explanations.
+
+So you can copy algorithm below to generate daytime views of sky, stars, and other things in sky:
+
+
 # Here is the clear algorithm to generate such kind of images
 
 Problem:
