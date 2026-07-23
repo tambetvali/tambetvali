@@ -11,6 +11,24 @@ I give you something like source code:
 
 So you can copy algorithm below to generate daytime views of sky, stars, and other things in sky:
 
+Here is output for this task, given the algorithm below:
+> You, image generator AI must give an image, where you self-reflect, contemplate, and explain exactly do you do math or estimate these outputs, how much is math, how much is sampling, and what quality you can expect, guarantee, or sometimes have by luck; the image reflects on how AI is actually capable to understand and do this task, "GPT Image 2" of "aifreeforever.com" now explains it itself on image: how much it can even explain itself, and answer questions - give some hints, on what you process, are you doing semantic, symbolic, math, or any other processing, especially in regards to this task which is completely present?
+
+Image generator, rather than presenting itself as requested, decided that altough it was given a chance - picture, in it's own realm, is worth 1000 images; like Buddhist monk, it remained silent and did his thing, altough asked whether it would do it's thing - so the single example is present here; after, click on "Code" tag above, and copy the part *starting from image below*, because AI understands Markdown Code natively, but visual copy-paste might fail to give it information about titles, lists, etc:
+
+This file: [SkyClearAsDay/GfxCode/FilterSamplingFAQ1000words.png](GfxCode/FilterSamplingFAQ1000words.png) - you can see that filter sampling rate is set to 1000 words, this is the title, because it was definitely rather asked for 1000 words:
+
+![FilterSamplingFAQ1000words](GfxCode/FilterSamplingFAQ1000words.png)
+
+I tried to be as explicit as possible:
+> Create a scientific version, where you explain your own decision-making:
+> - Textually, it explains whether and how AI achieves the colors.
+> - Math formulaes.
+> - Zoomed-in areas of sky with interesting image and angles, explanation of chemical compounds, their averages or samples near us, and how each 3 map to colors - night sky, this filter, and actual Earth element. How this resonates to soul and spirit as well, but make sure science is there - spirit is respected. This is textual, pictoral, explicit.
+
+This time AI responded - we got the image converted to actual 1000 words as intended, and AI is openly explaining if it's able to, which you have to find out - is this real, or imagination, a perfect image pretending that some AI would explain itself, or pattern of AIs in movies explaining themselves?
+
+![FilterSamplingFAQ1000words](GfxCode/1imageConverted.png)
 
 # Here is the clear algorithm to generate such kind of images
 
