@@ -62,6 +62,16 @@ I wanted specifically, can AI be it's own debugger:
 
 ![AIDebuggingProcess](GfxCode/AIDebuggingProcess.png)
 
+##### GfxCode/AIDebuggingProcess.png
+
+I still wanted to know, whether I can debug the sky filter AI algorithm / source for the images in this folder, but it answered in picture - and, it gave the short math formulae for this filter, indeed visible as exponent curve (it is):
+
+> Explain textually and clearly, how to debug.
+>
+> The following AI-image-generation-algorithm (instruction) must be verified and debugged, examples brought - how these are achieved, actual math or impression, proven logic or parallel assumptions and indirect truth for pixel values (explain clearly, use text, symbolics and art, but it's text-and-explanation rich):
+
+![ExponentCurve](GfxCode/ExponentCurve.png)
+
 # Here is the clear algorithm to generate such kind of images
 
 Problem:
