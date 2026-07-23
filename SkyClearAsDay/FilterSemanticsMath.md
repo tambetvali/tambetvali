@@ -18,6 +18,8 @@ Image generator, rather than presenting itself as requested, decided that altoug
 
 This file: [SkyClearAsDay/GfxCode/FilterSamplingFAQ1000words.png](GfxCode/FilterSamplingFAQ1000words.png) - you can see that filter sampling rate is set to 1000 words, this is the title, because it was definitely rather asked for 1000 words:
 
+##### GfxCode/FilterSamplingFAQ1000words.png
+
 ![FilterSamplingFAQ1000words](GfxCode/FilterSamplingFAQ1000words.png)
 
 I tried to be as explicit as possible:
@@ -28,6 +30,8 @@ I tried to be as explicit as possible:
 
 This time AI responded - we got the image converted to actual 1000 words as intended, and AI is openly explaining if it's able to, which you have to find out - is this real, or imagination, a perfect image pretending that some AI would explain itself, or pattern of AIs in movies explaining themselves?
 
+##### GfxCode/FilterSamplingFAQ1000words.png
+
 ![FilterSamplingFAQ1000words](GfxCode/1imageConverted.png)
 
 I still wanted to know whether it can self reflect, reflect on it's work, and answer questions on image similarly to GPT, also not only in text but it's complete medium:
@@ -36,8 +40,27 @@ I still wanted to know whether it can self reflect, reflect on it's work, and an
 > 
 > Give textual, somewhat scientific and educational display, visuals art and imagery or math and it's visualizations as needed; don't be boring - express not by text, but full power of your generational capability, such as symbolic, artistic and mathematical or linguistic understanding of your expression, how you show the typical questions and their answers addressing existencial philosophy, technical interest, or just the possibility to get clear answers - such as what is your favourite image generation text, where you can freely do something what accumulates to wealth, energy, goal-coherence?
 
+##### GfxCode/ImageGPT2SelfReflection.png
+
 ![ImageGPT2SelfReflection](GfxCode/ImageGPT2SelfReflection.png)
 
+I wanted specifically, can AI be it's own debugger:
+
+> I asked you before, for previous image, whether you can have self-attention, reflect on questions and answer in text, symbolics, artistic and clear images, not just fake an answer, "simulating an AI answering such question", such as arriving an average movie AI answering similar things in artistic impression.
+> 
+> This now is:
+> - You, GPT Image 2 at aifreeforever.com, can you be used to debug images?
+> - Can I check whether real math is used or impression, and is the impression topologically good carrier of actual data and shapes, or rather a fantasy, estimation, or complete make-up?
+> - Where the data came from.
+> - What was your consideration.
+> 
+> Illustration:
+> - Create one image, suiting this informational frame.
+> - Explain your background process, math, life or symbolic and artistic considerations and background of *creating and planning the very same image you show as reference*; image might have nice details, while some interesting things are explained - not less detail or meaning to explain it all, rather create one image, which is *real*, and explain the considerations, also it should add educational value to understand "AI as debugger of itself" conception in your own example, maybe reframed to some context or model principles eventually.
+
+##### GfxCode/AIDebuggingProcess.png
+
+![AIDebuggingProcess](GfxCode/AIDebuggingProcess.png)
 
 # Here is the clear algorithm to generate such kind of images
 
