@@ -30,6 +30,15 @@ This time AI responded - we got the image converted to actual 1000 words as inte
 
 ![FilterSamplingFAQ1000words](GfxCode/1imageConverted.png)
 
+I still wanted to know whether it can self reflect, reflect on it's work, and answer questions on image similarly to GPT, also not only in text but it's complete medium:
+
+> You have to create image where you, the GPT image 2, an image-generation AI, uses all it's model capability to answer simple questions - are you philosophical, how you reflect, can you express yourself directly through some mechanism such as self-attention and actual understanding of text, or is this image completely fake, not related to any kind of "reflection" or "pattern of self-attention", conscience? Try to express yourself, show or prove that you do. At least on level of CoPilot or ChatGPT chat - questions, answers, related to this context, and what to ask next?
+> 
+> Give textual, somewhat scientific and educational display, visuals art and imagery or math and it's visualizations as needed; don't be boring - express not by text, but full power of your generational capability, such as symbolic, artistic and mathematical or linguistic understanding of your expression, how you show the typical questions and their answers addressing existencial philosophy, technical interest, or just the possibility to get clear answers - such as what is your favourite image generation text, where you can freely do something what accumulates to wealth, energy, goal-coherence?
+
+![ImageGPT2SelfReflection](GfxCode/ImageGPT2SelfReflection.png)
+
+
 # Here is the clear algorithm to generate such kind of images
 
 Problem:
