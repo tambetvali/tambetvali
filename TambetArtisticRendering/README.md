@@ -3,9 +3,9 @@ For spiritual causes, we have to draw images of ourselves, where mind appears in
 # Spiritual Renderings
 
 ![Me in Spiritual 1](MeWireframe1.png)
-![Me in Spiritual 2](MeWireframe2.jpg)
+![Me in Spiritual 2](MeWireframe3.webp)
 
 # Buddhist Renderings
 
-![Me in Buddhism 1](MeWireframe3.webp)
+![Me in Buddhism 1](MeWireframe2.jpg)
 ![Me in Buddhism 2](MeWireframe4.jpg)
