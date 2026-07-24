@@ -1,6 +1,6 @@
 # My own image
 
-With AI-replaced background.
+With AI-replaced background. Here are it's [AI-enchanced artistic renderings](TambetArtisticRendering#spiritual-renderings)
 
 ![Tambet](Gfx/Tambet.png)
 
