@@ -1,3 +1,7 @@
+CoPilot inspired art - an emblem for laegna math based on my profile images and art based on them; this was it's first idea so it's explicit label "AI generated", I did not give any additional input for the image:
+
+![InspiredArt](Gfx/InspiredArt.png)
+
 # My own image
 
 With AI-replaced background. Here are it's [AI-enchanced artistic renderings](TambetArtisticRendering#spiritual-renderings)
