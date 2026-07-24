@@ -1,3 +1,9 @@
+# My own image
+
+With AI-replaced background.
+
+![Tambet](Gfx/Tambet.png)
+
 # Combined Logo Symbolic arts
 
 Altough colors are not exactly proper - one could miss it with Tao symbol itself, but it's often used in such context, within some mathematical transistion such as surrealistic arts or math flow. This, also, is commercial, ad-specialized generator which should especially meet criteria of aligning logos, symbols, into professional compositions and even color losses. But this is also: why it has repeated watermark, but it's also open source thing I do - I do not need to show I'm capable to pay, so let them be - if you want clean images, below are the ones which do not contract watermarks :)
