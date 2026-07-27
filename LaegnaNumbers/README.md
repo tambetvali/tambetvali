@@ -4,19 +4,19 @@ Number digits can be represented in pixel fields, preferrably square fields here
 
 # Introduction to Laegna Numbers
 
-![IntroductionToLaegnaNumbers](Graphics/IntroductionToLaegnaNumbers.png
+![IntroductionToLaegnaNumbers](Graphics/IntroductionToLaegnaNumbers.png)
 
 # LaeNum
 
-![LaeNum](Graphics/LaeNum.png
+![LaeNum](Graphics/LaeNum.png)
 
 # Drawing
 
-![Drawing](Graphics/Drawing.png
+![Drawing](Graphics/Drawing.png)
 
 # DigitalDrawings
 
-![DigitalDrawings](Graphics/DigitalDrawings.png
+![DigitalDrawings](Graphics/DigitalDrawings.png)
 
 # Digit Spaces
 
@@ -24,22 +24,30 @@ Number digits can be represented in pixel fields, preferrably square fields here
 
 Averages of, for example 4\*4 square grid, form the numbers - Yellow I, Red O, Green A, Blue E:
 
-![SquareDigitSpace](Graphics/SquareDigitSpace.jpeg
+![SquareDigitSpace](Graphics/SquareDigitSpace.jpeg)
 
 ## Circle Digit Space
 
-![CircleDigitSpace](Graphics/CircleDigitSpace.jpeg
+![CircleDigitSpace](Graphics/CircleDigitSpace.jpeg)
 
 # Looks like QR
 
-![LooksLikeQR](Graphics/LooksLikeQR.png
+![LooksLikeQR](Graphics/LooksLikeQR.png)
 
 # EIOAE
 
-![EIOAE](Graphics/EIOAE.png
+# 2D Number Spaces
 
-# Gaussian Curvature in 2D Number
+![EIOAE](Graphics/EIOAE.png)
 
-![GaussianCurvatureIn2DNumber](Graphics/GaussianCurvatureIn2DNumber.jpeg
-![ChaoticAttractorsIn2DNumber](Graphics/ChaoticAttractorsIn2DNumber.jpeg
-![TravellerInSingleNumber](Graphics/TravellerInSingleNumber.png
+## Gaussian Curvature in 2D Number
+
+![GaussianCurvatureIn2DNumber](Graphics/GaussianCurvatureIn2DNumber.jpeg)
+
+## Chaotic Attractors in 2D Number
+
+![ChaoticAttractorsIn2DNumber](Graphics/ChaoticAttractorsIn2DNumber.jpeg)
+
+# Traveller in Single Number
+
+![TravellerInSingleNumber](Graphics/TravellerInSingleNumber.png)
