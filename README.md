@@ -1,3 +1,9 @@
+# AI Travel To Infinity
+
+AI imagined people Travel To Infinity
+
+![AI Travel To Infinity](Gfx/AITravelToInfinity.png)
+
 # Surrealism
 
 AI was asked to draw surrealistic image and mind-puzzling images:
