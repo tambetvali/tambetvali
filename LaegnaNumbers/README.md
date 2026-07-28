@@ -8,6 +8,10 @@ LaegnaNumbers opens as a *shared symbolic horizon* for the entire Laegna ecosyst
 
 Not with essential precision but fantasy and basic, essential mathematical view and representations.
 
+# Laegna Hex 16
+
+![LaegnaHex16Basis](Graphics/LaegnaHex16Basis.png)
+
 # Imaginary Hex Mean Browser
 
 ![ImaginaryHexMeanBrowser](Graphics/ImaginaryHexMeanBrowser.png)
