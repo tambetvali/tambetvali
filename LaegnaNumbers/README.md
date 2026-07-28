@@ -16,6 +16,10 @@ Not with essential precision but fantasy and basic, essential mathematical view 
 
 ![Hex16DigitCosmicProjection](Graphics/Hex16DigitCosmicProjection.png)
 
+# Digit Artistic Version Of Laegna Mean Seek
+
+![DigitArtisticVersionOfLaegnaMeanSeek](Graphics/DigitArtisticVersionOfLaegnaMeanSeek.png)
+
 # Next Chapters are initial gallery
 
 # Laegna Number AI Calligraphy
