@@ -26,6 +26,6 @@
 
 ![CityScape](Gfx/CityScape.jpg)
 
-Hopeful Planet
+# Hopeful Planet
 
 ![HopefulPlanet](Gfx/HopefulPlanet.png)
