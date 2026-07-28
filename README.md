@@ -12,6 +12,10 @@ AI was asked to draw surrealistic image and mind-puzzling images:
 
 ![FuturisticLaegnaSurrealism3](Gfx/FuturisticLaegnaSurrealism3.png)
 
+# Laegna Science fi-Surrealism
+
+![LaegnaScienceFiSurrealism](Gfx/LaegnaScienceFiSurrealism.png)
+
 # CoPilot original art on Laegna
 
 CoPilot inspired art - an emblem for laegna math based on my profile images and art based on them; this was it's first idea so it's explicit label "AI generated", I did not give any additional input for the image:
