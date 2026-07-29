@@ -8,7 +8,13 @@ Additional Title based on same description and input images:
 
 # Spiritual Formulae 1
 
-![SpiritualFormulae1](Gfx/SpiritualFormulae1.png)
+Dead atoms project life to their infinity - human life, being it's composite tesimals. We are tesimals for great spirit - our lifetime is linear, body is spatial aspect of this symmetric, infinitesimal ball in Y scope.
+
+![ProjectionOfLife1](Gfx/ProjectionOfLife1.png)
+
+# Projection of Life 2
+
+![ProjectionOfLife2](Gfx/ProjectionOfLife2.png)
 
 # Spiritual Formulae 2
 
