@@ -12,7 +12,7 @@ Additional Title based on same description and input images:
 
 # Projection of Life 1
 
-Dead atoms project life to their infinity - human life, being it's composite tesimals. We are tesimals for great spirit - our lifetime is linear, body is spatial aspect of this symmetric, infinitesimal ball in Y scope.
+Dead atoms project life to their infinity - human life, being it's composite tesimals. We are tesimals for great spirit - our lifetime is linear, body is spatial aspect of this symmetric, infinitesimal ball in Y scope. This is symmetric - scope.
 
 ![ProjectionOfLife1](Gfx/ProjectionOfLife1.png)
 
@@ -30,7 +30,7 @@ Dead atoms project life to their infinity - human life, being it's composite tes
 
 # Projection of Life 3
 
-*Dead atoms project life to their infinity - human life, being it's composite tesimals. We are tesimals for great spirit - our lifetime is linear, body is spatial aspect of this symmetric, infinitesimal ball in Y scope. This might be.*
+*Dead atoms project life to their infinity - human life, being it's composite tesimals. We are tesimals for great spirit - our lifetime is linear, body is spatial aspect of this symmetric, infinitesimal ball in Y scope. This might be - cause.*
 
 ![ProjectionOfLife3](Gfx/ProjectionOfLife3.png)
 
@@ -40,7 +40,7 @@ Dead atoms project life to their infinity - human life, being it's composite tes
 
 # Projection of Life 5
 
-*Dead atoms project life to their infinity - human life, being it's composite tesimals. We are tesimals for great spirit - our lifetime is linear, body is spatial aspect of this symmetric, infinitesimal ball in Y scope. This might be.*
+*Dead atoms project life to their infinity - human life, being it's composite tesimals. We are tesimals for great spirit - our lifetime is linear, body is spatial aspect of this symmetric, infinitesimal ball in Y scope. This should be - goal.*
 
 ![ProjectionOfLife5](Gfx/ProjectionOfLife5.png)
 
