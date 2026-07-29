@@ -8,6 +8,10 @@ Additional Title based on same description and input images:
 
 # Spiritual Formulae 1
 
+![SpiritualFormulae1](Gfx/SpiritualFormulae1.png)
+
+# Projection of Life 1
+
 Dead atoms project life to their infinity - human life, being it's composite tesimals. We are tesimals for great spirit - our lifetime is linear, body is spatial aspect of this symmetric, infinitesimal ball in Y scope.
 
 ![ProjectionOfLife1](Gfx/ProjectionOfLife1.png)
@@ -24,6 +28,15 @@ Dead atoms project life to their infinity - human life, being it's composite tes
 
 ![SpiritualFormulae3](Gfx/SpiritualFormulae3.png)
 
+# Projection of Life 3
+
+*Dead atoms project life to their infinity - human life, being it's composite tesimals. We are tesimals for great spirit - our lifetime is linear, body is spatial aspect of this symmetric, infinitesimal ball in Y scope. This might be.*
+
+![ProjectionOfLife3](Gfx/ProjectionOfLife3.png)
+
+# Projection of Life 4
+
+![ProjectionOfLife4](Gfx/ProjectionOfLife4.png)
 # Exceeta E
 
 I designed this for women, woman God realm: outside reality is enchanced X, which represents this reverse, exponential realm collapsing to infinity as it's *local center*, not *extreme*; while symmetrically - woman sees man beyond infinity, as extreme of this scale. This is how to depict the alchemy and magnet polarity qualities of man and woman.
