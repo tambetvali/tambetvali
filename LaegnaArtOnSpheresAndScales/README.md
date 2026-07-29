@@ -17,10 +17,34 @@
 I designed this for women, woman God realm: outside reality is enchanced X, which represents this reverse, exponential realm collapsing to infinity as it's *local center*, not *extreme*; while symmetrically - woman sees man beyond infinity, as extreme of this scale. This is how to depict the alchemy and magnet polarity qualities of man and woman.
 
 ![ExceetaE](Gfx/ExceetaE.png)
+
+# Hexadecimal Complex
+
+This is from another album about Laegna Number System.
+
 ![HexadecimalComplex](Gfx/HexadecimalComplex.png)
+
+# Laegna Math Conceptions
+
 ![LaegnaMathConceptions](Gfx/LaegnaMathConceptions.png)
+
+# Future Life Gallery
+
 ![FutureLifeGallery](Gfx/FutureLifeGallery.png)
+
+# AI Imaginations 1
+
 ![AIImaginations1](Gfx/AIImaginations1.png)
+
+# AI Imaginations 2
+
 ![AIImaginations2](Gfx/AIImaginations2.png)
+
+# AI Imaginations 3
+
 ![AIImaginations3](Gfx/AIImaginations3.png)
+
+# Laegna Math Conceptions 1
+
 ![LaegnaMathConceptions1](Gfx/LaegnaMathConceptions1.png)
+
