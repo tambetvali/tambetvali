@@ -48,6 +48,14 @@ Dead atoms project life to their infinity - human life, being it's composite tes
 
 ![ProjectionOfLife6](Gfx/ProjectionOfLife6.png)
 
+# Matter, Mind, Spirit
+
+![MatterMindSpirit](Gfx/MatterMindSpirit.png)
+
+# Matter, Mind, Spirit 1
+
+![MatterMindSpirit 1](Gfx/MatterMindSpirit2.png)
+
 # Exceeta E
 
 I designed this for women, woman God realm: outside reality is enchanced X, which represents this reverse, exponential realm collapsing to infinity as it's *local center*, not *extreme*; while symmetrically - woman sees man beyond infinity, as extreme of this scale. This is how to depict the alchemy and magnet polarity qualities of man and woman.
