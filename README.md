@@ -1,24 +1,3 @@
-# I Ching - Dragons are Flying
-
-I Ching how dragons are flying lower, then higher; some extreme yang conditions break under thermodynamic stable laws:
-- E: Yin is becoming Yang; O => A = E is exponent.
-- A: Yang remains Yang; A => A = A is linear growth.
-- O: Yin remains Yin; O => O = O is unknown problem.
-- I: Yang becomes Yin; A => O = I is logarithm. Often, your perspective changes and you remeasure your past ideal, future state, as initiation instead of a high - right now becomes infinity in terms of being your past dream or fear or unknown solution or possibility; it's zero now, a +0, an infinitesimal, +ε.
-
-AI reimagined mine:
-- G is gravity in Laegna, where all axes integrate.
-- N is closeness, being on same axe - inertia of system being linear, in fixed inertial system.
-- A and E appear letters I asked for, of the four.
-
-![IChingDragonsFlying](Gfx/IChingDragonsFlying.png)
-
-# AI Travel To Infinity
-
-AI imagined people Travel To Infinity
-
-![AI Travel To Infinity](Gfx/AITravelToInfinity.png)
-
 # Surrealism
 
 AI was asked to draw surrealistic image and mind-puzzling images:
