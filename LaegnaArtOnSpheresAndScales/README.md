@@ -1,5 +1,11 @@
 ![Cover](Gfx/CoverLogo.png)
 
+# Additional Logo Art
+
+Additional Title based on same description and input images:
+
+![LogoArt](Gfx/LogoArt.png)
+
 # Spiritual Formulae 1
 
 ![SpiritualFormulae1](Gfx/SpiritualFormulae1.png)
