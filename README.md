@@ -1,3 +1,13 @@
+# Me on some images
+
+Here, AI replaced background:
+
+![Me1](Gfx/Me1.png)
+
+AI art of me based on those two and 3 more images I made now:
+
+![Me2](Gfx/Me2.png)
+
 # Surrealism
 
 AI was asked to draw surrealistic image and mind-puzzling images:
