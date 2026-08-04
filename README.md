@@ -4,6 +4,10 @@ Imaginary antequantum realm - coordinate system reflection upwards, beyond colla
 
 ![AnteQuantum Realm](Gfx/AnteQuantum.png)
 
+# AnteQuantum Visual
+
+![AnteQuantum Visual](Gfx/AnteQuantumVisual.png)
+
 # Crystal Artscape
 
 ![Crystal Artscape](Gfx/CrystalArtscape.png)
