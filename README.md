@@ -1,3 +1,9 @@
+# Goddess Freya
+
+AI art inspired by Goddess Freya and Master of Magic computer game, my favourite when I was a child.
+
+![GoddessFreya](Gfx/GoddessFreya.png)
+
 # AnteQuantum Realm
 
 Imaginary antequantum realm - coordinate system reflection upwards, beyond collapse point of exterior space:
