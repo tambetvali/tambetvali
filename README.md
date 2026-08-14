@@ -1,3 +1,9 @@
+# People's own Innovation
+
+![PeoplesOwnInnovation 1](Gfx/PeoplesOwnInnovation.png)
+
+![PeoplesOwnInnovation 2](Gfx/PeoplesOwnInnovation2.png)
+
 # Goddess Freya
 
 AI art inspired by Goddess Freya and Master of Magic computer game, my favourite when I was a child.
