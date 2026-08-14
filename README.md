@@ -1,10 +1,28 @@
 # People's own Innovation
 
+Story of Dream of the Common People (self-credited).
+
+##### Sharing the Place where we dreamed.
+
+This is the place of our dreams:
+
 ![PeoplesOwnInnovation Title](Gfx/PeoplesOwnInnovationTitle.png)
+
+##### People's own Innovation
+
+Here, people are fighting for dreams:
 
 ![PeoplesOwnInnovation 1](Gfx/PeoplesOwnInnovation.png)
 
 ![PeoplesOwnInnovation 2](Gfx/PeoplesOwnInnovation2.png)
+
+##### Real Software
+
+And even these people have dreams:
+
+![Real Software 1](Gfx/RealSoftware1.png)
+
+![Real Software 2](Gfx/RealSoftware2.png)
 
 # Goddess Freya
 
