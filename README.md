@@ -1,5 +1,7 @@
 # People's own Innovation
 
+![PeoplesOwnInnovation Title](Gfx/PeoplesOwnInnovationTitle.png)
+
 ![PeoplesOwnInnovation 1](Gfx/PeoplesOwnInnovation.png)
 
 ![PeoplesOwnInnovation 2](Gfx/PeoplesOwnInnovation2.png)
