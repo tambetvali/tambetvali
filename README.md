@@ -1,3 +1,9 @@
+# Matter over Mind.
+
+Impossible: force cannot control the creative seeds and thermodynamic futures.
+
+![Matter over Mind](Gfx/RobAGenius.webp)
+
 # People's own Innovation
 
 Story of Dream of the Common People (self-credited).
