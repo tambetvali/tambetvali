@@ -6,7 +6,7 @@ Impossible: force cannot control the creative seeds and thermodynamic futures.
 
 # CoPilot's version
 
-![Matter over Mind](Gfx/RobAGeniusCoPilot.webp)
+![Matter over Mind](Gfx/RobAGeniusCoPilot.png)
 
 # Rob a Genius — Conceptual Analysis
 
