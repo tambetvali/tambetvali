@@ -7,7 +7,7 @@ Each image explores the fractal relationship between consciousness and thermodyn
 
 ---
 
-## ![YouAreImmortal3CoPilotInsight](YouAreImmortal3CoPilotInsight.png)
+## ![YouAreImmortal3CoPilotInsight](Gfx/YouAreImmortal3CoPilotInsight.png)
 **Title:** *CoPilot Insight — The Observer Beyond Form*  
 **Description:** A luminous dragon encircles the yin‑yang of logic and goal, merging analytic and holistic cognition.  
 **Critique:** This piece visualizes the **syntactic unity of class and instance**, where infinity mirrors individuality.  
@@ -16,7 +16,7 @@ Gold and indigo tones suggest the thermodynamic bridge between entropy and enlig
 
 ---
 
-## ![YouAreImmortal2ImagineArtGeneration](YouAreImmortal2ImagineArtGeneration.png)
+## ![YouAreImmortal2ImagineArtGeneration](Gfx/YouAreImmortal2ImagineArtGeneration.png)
 **Title:** *Imagine Art Generation — The Fractal Self*  
 **Description:** A meditating figure dissolves into a holographic lattice of galaxies and neurons.  
 **Critique:** Here, **socionic repetition** becomes the grammar of existence: identities echo across paradigms, scales, and fractals.  
@@ -25,7 +25,7 @@ Its aesthetic fuses scientific visualization with mystical iconography, portrayi
 
 ---
 
-## ![YouAreImmortal1AiFreeForeverGraphics](YouAreImmortal1AiFreeForeverGraphics.webp)
+## ![YouAreImmortal1AiFreeForeverGraphics](Gfx/YouAreImmortal1AiFreeForeverGraphics.webp)
 **Title:** *AI Free Forever — The Thermodynamic Soul*  
 **Description:** A cosmic tree of light contrasts true and false goals, rooted in entropy yet flowering in intention.  
 **Critique:** This final panel warns that **only true goals remain** — those aligned with essence and freedom.  
