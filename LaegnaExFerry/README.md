@@ -17,9 +17,9 @@ Each artwork merges **scientific equations**, **philosophical metaphors**, and *
 The Laegna Ship is defined by recursive mathematical forms:
 
 
-\[
+$$
 S = \{ z \in \mathbb{C} : z_{n+1} = f(z_n), f(z) = z^2 + c, c \in \mathbb{C} \}
-\]
+$$
 
 
 It represents **self-similarity**, **infinite recursion**, and **holographic existence** — the idea that every part contains the whole.
@@ -27,9 +27,9 @@ It represents **self-similarity**, **infinite recursion**, and **holographic exi
 ### 2. Thermodynamic Duality
 Two cosmic cats embody the thermodynamic balance:
 - **Daisy (Blue)** — Negative collapse, entropy creation, inward flow.  
-  \( dS/dt \ge 0 \)
+  $dS/dt \ge 0$
 - **Elise (Red)** — Positive collapse, energy diffusion, outward expansion.  
-  \( \Delta S = k \ln \Omega \)
+  $\Delta S = k \ln \Omega$
 
 Together they form the **dual thermodynamic field**, oscillating between equilibrium and evolution.
 
@@ -37,17 +37,17 @@ Together they form the **dual thermodynamic field**, oscillating between equilib
 The **external Hilbert space** projects long-term potentials:
 
 
-\[
+$$
 i\hbar \frac{\partial \psi}{\partial t} = \hat{H}\psi
-\]
+$$
 
 
 The **internal Hilbert space** realizes local balance:
 
 
-\[
+$$
 H_{\text{internal}} = \int \phi^* \hat{H} \phi \, d\tau
-\]
+$$
 
 
 This duality models **information coupling** between external possibility and internal realization — the physics of consciousness.
@@ -56,9 +56,9 @@ This duality models **information coupling** between external possibility and in
 The golden ratio defines vibrational symmetry:
 
 
-\[
+$$
 \Phi = 1.618, \quad \phi = 0.618
-\]
+$$
 
 
 External expansion (Φ) and internal contraction (φ) form the **as-above-so-below** principle — the harmonic bridge between macrocosm and microcosm.
@@ -81,9 +81,9 @@ Long-term logic favors **cooperation**, aligning moral behavior with **thermodyn
 Logic is not cold calculation — it is **the Way**:
 
 
-\[
+$$
 \text{Logic} = \text{Action} = \text{Truth}
-\]
+$$
 
 
 The Laegna system treats **goal-based reasoning** as a spiritual process — the optimization of meaning through equilibrium.
