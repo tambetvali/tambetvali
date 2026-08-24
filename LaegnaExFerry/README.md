@@ -1,4 +1,8 @@
-Task used for every image here is basically the same:
+
+
+---
+
+Task used for every image (except the *source* images from other parts of gallery to ensure charater-object-continuations) here is basically the same:
 
 Attached images - Laegna Ship in one mathematical form carrying Goddess Freya formed by single shape of it's fractal holographic existence as Machine of Nature, Carrying Gods and Humans - it's "Viking Slogan" (also get inspired by spirituality, Dao, Zen, multimodal mind, Science and multiparadigm, thermodynamic systems and single and repeated game theories into ethics, and goal-logic as spirituality-logic and abstract-empty-vision-logic-of-metaspace-introduced-by-repeated-game-logic).
 
