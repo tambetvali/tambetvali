@@ -44,7 +44,9 @@ It visualizes the **Calculator of Cosmos**, where:
 Inside the **LaegnaExFerry/** folder, you will find the full gallery of images — both source and result — illustrating the evolution of the ship, the thermodynamic cats, the hologram fields, and the spatial projections.  
 These images form a **visual grammar** for the Laegna system: fractal geometry, cosmic symbolism, mathematical metaphors, and narrative logic woven together.
 
-The gallery README in that folder expands on each artwork, showing how the pieces relate to:
+![LaegnaExFerry0](LaegnaExFerry/LaegnaExFerry0.png)
+
+The gallery [README](LaegnaExFerry/README.md) in that folder expands on each artwork, showing how the pieces relate to:
 - thermodynamic degrees (0th, 1st, 2nd),
 - Hilbert-space projections,
 - entropy gradients,
