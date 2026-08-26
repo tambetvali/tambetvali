@@ -1,6 +1,6 @@
 # Genius And Love 2 CoPilot — Mathematical Commentary
 
-- [GeniusAndLove](GeniusAndLove#genius-and-love-2-copilot) Gallery.  
+- [GeniusAndLove](GeniusAndLove/#genius-and-love-2-copilot) Gallery.  
   This gallery visualizes the **Laegna temporal equilibrium theorem** — the coexistence of deductive and inductive universes through the archetypes of Elise and Daisy.  
   - **Elise (Red Ocean / Nash)** represents the *deductive terminator*, where logic seeks to avoid loss and classify guilt.  
   - **Daisy (Blue Ocean / Long–Short)** embodies the *inductive accelerator*, where logic seeks gain and identifies innocence.  
