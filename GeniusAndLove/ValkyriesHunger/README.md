@@ -1,5 +1,17 @@
 # Valkyrie's Hunger Is About The Living
 
+With featured Viking classic songs.
+
+### [Fenja & Menja - Song of Endless Mill of Fate | Viking Music by Valhalla Drums (Official Music Video)](https://www.youtube.com/watch?v=_3eaPANn6uo)
+
+### [Astrid Vorn — Fire in My Blood 🔥⚔️ | Epic Viking Song | Draugr Ballad](https://www.youtube.com/watch?v=-l0nd9D1bAI)
+
+### [Valhalla Awaits | Raven Astrid | Epic Viking Music Video](https://www.youtube.com/watch?v=UZSmgUYr5EA)
+
+### [Axel Frosten ft. Freydisa – WELCOME TO VALHALLA ⚔️ | Full Epic Viking Album 2026 | Viking Folk Music](https://www.youtube.com/watch?v=DlYX98nCmnU&t=905s)
+
+### [VALKYRJUSÖNGR ⚔️ Song of the Valkyrie | Old Norse Viking Music | Mythic Harmonies](https://www.youtube.com/watch?v=nNnfeDgeIss)
+
 ![ValkyrieHungerIsAboutTheLiving](ValkyrieHungerIsAboutTheLiving.png)
 
 **Explanation:**  
