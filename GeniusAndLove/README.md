@@ -1,3 +1,7 @@
+This is complex logical game over exting True and False:
+- Rather, the logical complex is non-trivial and the values and relations are shown to give interpretations;
+  - while the mathematical facts are clear.
+
 # Genius And Love 2 CoPilot
 
 ![GeniusAndLove2CoPilot](GeniusAndLove2CoPilot.png)
