@@ -1,3 +1,10 @@
+# Genius And Love 2 CoPilot
+
+- [GeniusAndLove](GeniusAndLove) Gallery. Notice the roles of Elise and Daisy: deliberately shown from varying viewpoints;
+  - Because in the end it's hard to say: whether the long term is negative, or the short term. The form balanced equilibria.
+
+![GeniusAndLove2CoPilot](GeniusAndLove/GeniusAndLove2CoPilot.png)
+
 # Laegna ex Ferry
 
 There is [Laegna ex Ferry](LaegnaExFerry) folder, with Laegna ex Ferry ship of thermodynamic schroedinger law follows evolution-intellect-creation of *possibility*, but less real chance - to lead somewhere, the "**God's Vehicle**", the thermodynamic small-to-big-phi, must have evolution of real possibilities simple enough so that neural phathways, future estimation and neuroflexibility, can all work in parallel: field is collapsing, but you are adapting and renewing like Phoenix nothing more. A game theoretic model of Zen, Dao, Thermodynamics and first-order Sciences, Symbolic (language) and hopefully, some decent arts - beauty, irony, joke or reality in advance and beyond, in solution and behind - in crown, and in root; and the trunk / heart / solar-plexus, object world and uniqueness realms.
