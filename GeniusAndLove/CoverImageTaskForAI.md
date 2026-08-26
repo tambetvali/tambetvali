@@ -1,3 +1,17 @@
+## Update
+
+Use the following parts of the song instead, and their runic views, as well as enrichen imaginery by their motifs:
+
+It's what the dead cannot give, negative collapse of actuality:
+3:453 minutos y 45 segundosThe Valkyy's hunger. is not for the fallen.
+3:523 minutos y 52 segundosThe Valkyy's [music] hunger is for something the fallen [music] cannot give.
+
+It's where the positive proof needs hard yourney, positive collapse of choice:
+6:566 minutos y 56 segundosThe Valky is proof that the choosing was [music] never [singing] easy. Even
+7:047 minutos y 4 segundosfor someone who chooses for a living, [music and singing]
+
+# Main
+
 This uses song "THE VALKYRIE'S HUNGER ⚔️", Viking classic song, as inspiration.
 
 Section: "Dukkha Theorem":
