@@ -28,6 +28,9 @@ Red and Blue Cat's run around collapse - Red about positive, and Blue about nega
 - Positive collapse is exponent energy starting from current point, relating it to zero entropy information point of big bang, and through octaves, recursive multiplication by 2, leading through linearized and normalized D t vision of Big Bang. Form space dimensions the same way, in octave growth of it's oscillance, each dimension of it's dimensionality modulated by positive 2.
 - Negavive collapse draws current standpoint projecting it's value and frequency and octaves to positive star collapsing to black hole, and uses logarithm - negative octaves, recursive *division by 2*, to form t dimension looking from it's outwards. Form space dimensions the same way, in octave growth of it's oscillance, each dimension of it's dimensionality modulated by negative 2.
 
+Math is mixed, aligned and harmonized from imaginery inspired by the given song.
+YouTube: THE VALKYRIE'S HUNGER ⚔️ Epic Viking Music | Norse Female Choir & Nordic Folk
+
 # Addon mathematics in Markdown, katex blocks.
 
 I asked CoPilot:
