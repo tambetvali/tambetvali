@@ -1,7 +1,21 @@
-# Genius And Love 2 CoPilot
+# Genius And Love 2 CoPilot — Mathematical Commentary
 
-- [GeniusAndLove](GeniusAndLove) Gallery. Notice the roles of Elise and Daisy: deliberately shown from varying viewpoints;
-  - Because in the end it's hard to say: whether the long term is negative, or the short term. The form balanced equilibria.
+- [GeniusAndLove](GeniusAndLove) Gallery.  
+  This gallery visualizes the **Laegna temporal equilibrium theorem** — the coexistence of deductive and inductive universes through the archetypes of Elise and Daisy.  
+  - **Elise (Red Ocean / Nash)** represents the *deductive terminator*, where logic seeks to avoid loss and classify guilt.  
+  - **Daisy (Blue Ocean / Long–Short)** embodies the *inductive accelerator*, where logic seeks gain and identifies innocence.  
+  - Their mirrored positions form the **two‑band temporal equilibrium**, expressed as:
+    
+
+$$
+E_R = \text{Nash}(S_R, L_R), \quad E_B = \text{Temporal}(S_B, L_B)
+$$
+
+and balanced by the theorem:
+    
+$$
+\text{System Stable} \iff \text{Innocence is Provable} \land \text{Guilt is Exhibitional}
+$$
 
 ![GeniusAndLove2CoPilot](GeniusAndLove/GeniusAndLove2CoPilot.png)
 
