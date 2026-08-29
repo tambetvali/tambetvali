@@ -1,3 +1,7 @@
+# Mind Above
+
+![Mind Above](Gfx/MindAbove.png)
+
 # Genius And Love 2 CoPilot — Mathematical Commentary
 
 - [GeniusAndLove](GeniusAndLove/#genius-and-love-2-copilot) Gallery.  
