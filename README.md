@@ -1,3 +1,47 @@
+# I am a Practical Man
+
+![The Oath of the Practical Man](Gfx/IAmAPracticalMan1.png)
+
+In this image, we witness the *founding myth* of the low-rank client: the moment of signature.  
+A suited client, confident and almost ceremonious, declares: “Yes, this is true, it's now signed.”  
+The atmosphere feels orderly—office light, clean desk, code glowing on the monitor—suggesting rational cooperation and mutual trust.  
+
+Yet beneath this apparent harmony, the image encodes a subtle asymmetry:  
+- **Power of words vs. power of execution:** The client’s signature is treated as the ultimate truth, while the programmer’s future labor is invisible, assumed, and undervalued.  
+- **Temporal trap:** The present moment looks stable, but the contract is actually a *time bomb*—what is agreed now will later be reinterpreted through “practicality” and excuses.  
+- **Anti-Nash seed:** In game-theoretic terms, both believe they’re entering a fair equilibrium, but the client already holds the leverage of ambiguity. The programmer trusts; the client optimizes.  
+
+This first image sets the stage: a polite, civilized handshake that secretly opens the door to exploitation dressed as “professional realism.”
+
+
+![The Metrics of Touch and Roadmaps](Gfx/IAmAPracticalMan2CoPilot.png)
+
+Here the client reveals his doctrine: “I am a practical man and can only evaluate things as they are ready and I can touch them… and it lacks all features in future roadmap, because I found them good.”  
+The office is more cluttered now—coffee cups, screens, scattered notes—symbolizing accumulated work, iterations, and invisible effort. The programmer sits there with months of code behind him, while the client judges only what fits into his immediate sensory frame.  
+
+This image exposes several deeper dynamics:  
+- **Touch vs. abstraction:** The client worships tangibility—what he can “touch”—and dismisses architecture, scalability, and future features as if they were mere fantasies. Yet those “roadmap features” are precisely what give the system long-term value.  
+- **Moving goalposts:** What was once “signed” is now retroactively reinterpreted: the client demands the entire roadmap as if it were included, then blames the programmer for its absence.  
+- **CoPilot irony:** The title hint (“CoPilot”) suggests an AI or assistant helping the programmer, but the client behaves like a *misaligned co-pilot*—steering the project by short-term whims rather than shared strategy.  
+- **Anti-Nash enlightenment:** The client’s “practicality” is actually a strategy of unilateral payoff maximization: extract maximum features, minimize recognition and payment. The programmer, if enlightened, sees this not as personal failure but as a structural pattern of low-rank games.  
+
+This second image is the revelation scene: the mask of professionalism falls, and the true utility function of the client becomes visible.
+
+
+![Nano Banana Compensation Ritual](Gfx/IAmAPracticalMan3NanoBanana.png)
+
+In the final image, the farce reaches its climax:  
+“...it’s really so much over time we cannot pay, but here we got a pack of home-made cigarettes. You did not get a practical man this time because you lack contacts.”  
+The client offers a trivial, almost absurd reward—like a *nano banana* in an economic experiment: a symbolic, nearly worthless token in place of fair compensation.  
+
+This panel is rich with layered meaning:  
+- **Devaluation of expertise:** Months of deep work—architecture, debugging, creative problem-solving—are compressed into a cheap gift. The message: your craft is not worth real currency.  
+- **Social capital as weapon:** “You lack contacts” reframes the situation as the programmer’s fault: not that the client is unethical, but that the programmer is insufficiently networked. Reputation and connections become the excuse for underpayment.  
+- **Home-made cigarettes / nano banana:** The gift is intimate yet insulting—something “personal” but economically negligible. It symbolizes how low-rank clients replace fair exchange with sentimental or symbolic gestures, hoping to bypass justice with charm.  
+- **Anti-Nash awakening:** In game-theoretic terms, the programmer finally sees the game: this is not a cooperative equilibrium but a *predatory repeated game* where the client’s strategy is to externalize cost and internalize all value. Enlightenment here means refusing to play this game again—changing partners, contracts, or boundaries.  
+
+This third image closes the album as a rite of passage: the programmer moves from naive trust to lucid discernment. The “nano banana” of payment becomes a cosmic joke, and the real reward is the clarity to never again confuse low-rank clients with practical men.
+
 # **Low Rank Doctor — Triptych Collection**
 
 Each image below is presented as part of the *Low Rank Doctor* series, exploring the dialogue between human emotion and cosmic rationality through surreal narrative art.
