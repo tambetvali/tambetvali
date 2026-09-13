@@ -1,7 +1,7 @@
 # Low Rank Gallery
 
 ## Low Rank Official
-![](LowRankOfficial.jpg)
+![](Gfx/LowRankOfficial.jpg)
 
 ### Description
 A comic satire of bureaucratic rigidity: an official insists on giving a Viking smaller shoes, quoting statistics about “maximum size 46.”  
@@ -10,7 +10,7 @@ The humor lies in the absurdity of enforcing normality on someone clearly outsid
 ---
 
 ## Low Rank Official: Punchline by CoPilot
-![](LowRankOfficialCoPilotContinued.png)
+![](Gfx/LowRankOfficialCoPilotContinued.png)
 
 ### Explanation
 Continuation of the same theme — the “Low Rank Official” archetype represents the collision of **statistical normality** and **mythic exception**.  
@@ -20,7 +20,7 @@ Together they mock the idea that bureaucracy can measure the extraordinary.
 ---
 
 ## Low Rank Atheist A
-![](LowRankAtheistA.png)
+![](Gfx/LowRankAtheistA.png)
 
 ### Description
 Two characters debate persistence versus statistical skepticism.  
@@ -30,7 +30,7 @@ The flat line at \(y = 0\) symbolizes existential stagnation — the atheist’s
 ---
 
 ## Low Rank Atheist B
-![](LowRankAtheistB.jpg)
+![](Gfx/LowRankAtheistB.jpg)
 
 ### Explanation
 A variant emphasizing the same irony: the atheist’s confidence in failure contrasts with the other’s quiet endurance.  
@@ -39,7 +39,7 @@ The graph and mushroom imagery parody **scientific arrogance turned decorative**
 ---
 
 ## Low Rank Atheist by CoPilot
-![](LowRankAtheistCoPilot.png)
+![](Gfx/LowRankAtheistCoPilot.png)
 
 ### Unified Motive
 This version synthesizes the previous ones — a sarcastic reflection on **quantitative nihilism**.  
