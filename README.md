@@ -47,7 +47,7 @@ A symbolic world-tree emerging from water, crystal and stone. Reflection below b
 
 ---
 
-# IV. Laegna Foundations
+# IV. Laegna Logic
 ### The Mathematical Core
 
 A minimalist interpretation emphasizing the logical axes, golden ratio construction and exponential growth trajectory that form the structural foundation of the Laegna system.
