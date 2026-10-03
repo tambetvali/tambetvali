@@ -2,6 +2,8 @@
 
 Feel free to design your own laegna-spireason logos, based on your paradigms, implementations or characters.
 
+This is my Viking-Celtic inspired personal Laegna Realm.
+
 <br>
 
 ![LaeLogChatGPT](Logo2Img/LaeLogChatGPT.png)
