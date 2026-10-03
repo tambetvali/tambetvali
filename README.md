@@ -1,3 +1,31 @@
+# Logo Idea
+
+Feel free to design your own laegna-spireason logos, based on your paradigms, implementations or characters.
+
+<br>
+
+![LaeLogChatGPT](Logo2Img/LaeLogChatGPT.png)
+
+<br>
+
+![LaeLogCoPilot](Logo2Img/LaeLogCoPilot.png)
+
+<br>
+
+![LaeLogFreeGpt](Logo2Img/LaeLogFreeGpt.png)
+
+<br>
+
+![LaeLogGptImg25](Logo2Img/LaeLogGptImg25.png)
+
+<br>
+
+![LaeLogImagineArt](Logo2Img/LaeLogImagineArt.png)
+
+<br>
+
+![LaeLogNanoBanana](Logo2Img/LaeLogNanoBanana.jpeg)
+
 # Low Rank Gallery
 
 ## Low Rank Official
