@@ -1,3 +1,79 @@
+# Low Rank Rich
+
+A small visual satire about status, value, perception, and the difference between wealth, culture, knowledge, and social rank.
+
+The *Low Rank Rich* series explores a recurring theme: material position and inner value do not necessarily coincide. Through symbolic mathematics, Barcelona street scenes, and comic-style storytelling, the images examine how social prestige can become dependent on comparison rather than substance.
+
+---
+
+## Gallery
+
+### Low Rank Rich I
+
+![Low Rank Rich 1](Gfx/LRRich1.png)
+
+The first image introduces the central contrast.
+
+A reader, thinker, and student of many traditions appears materially poor but intellectually wealthy. Around the figure are traces of philosophy, mathematics, spirituality, and science. The image asks a simple question:
+
+> What happens when knowledge, depth, and curiosity have little market value?
+
+The helpers bring practical kindness, while the city continues its ordinary rhythm behind them.
+
+---
+
+### Low Rank Rich II
+
+![Low Rank Rich 2](Gfx/LRRich2.png)
+
+The second image shifts from poverty to perception.
+
+A modest café scene becomes a commentary on social positioning. The richest voice at the table is not concerned with food, knowledge, or companionship. Instead, value is measured through exclusivity and comparison.
+
+The satire is not directed at wealth itself.
+
+The satire is directed at a form of status that only exists when somebody else is perceived as lower.
+
+> If another person enjoys the same thing, does the feeling of superiority disappear?
+
+---
+
+### Low Rank Rich III
+
+![Low Rank Rich 3](Gfx/LRRich3.png)
+
+The final image sharpens the contrast.
+
+The mathematical title becomes part of the story itself:
+
+- **Low** in yellow, curved through logarithmic symbolism.
+- **Rank** in red, extending the hierarchy of abstraction.
+- **Rich** in blue and green, appearing at first as exponential ascent, yet revealing logarithmic limitation beneath the illusion.
+
+The visual joke is simple:
+
+Someone with little money may possess immense intellectual, cultural, or spiritual capital.
+
+Someone with abundant money may construct identity from symbols of distinction so fragile that a chocolate croissant can threaten them.
+
+---
+
+## Notes
+
+The series combines:
+
+- Barcelona urban atmosphere
+- Gothic typography
+- Mathematical symbolism
+- Social satire
+- Comic art and painterly realism
+
+Its recurring question is neither economic nor political.
+
+It is aesthetic:
+
+> What kind of richness survives when comparison disappears?
+
 # Laegna Logo Gallery
 ## Six Unique Visions of the Laegna Realm
 
