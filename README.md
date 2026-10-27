@@ -1,3 +1,15 @@
+# Journalling
+
+What is jokingly called "[Business Headlines](https://github.com/tambetvali/LaegnaDocumentation/tree/main/BusinessHeadlines#business-headlines)" contains selected snapshots of statistics, mostly when something new happened. This is the journal of Laegna-SpiReason network in terms of user interaction.
+
+Notice that if you want to create Laegna-SpiReason discussions, I suggest to use [Actualized.org forum](https://www.actualized.org/forum/):
+- The forum has many threads and discussions which meet our goals just finely.
+  - As our own discussion is most probably not more than a few threads, noone would wait for others in place where nothing is going on.
+- The [Connection Page](https://tambet-v-li-connecti-6u4a.bolt.host/) has my reasons why to use that ecosystem. I was having debates in roughly three forums (excluding all the ones where it was instantly very unfruitful); actualized.org has neutral, critical, possibly interesting discussions.
+- Topics of Laegna and SpiReason are rougly manageable within this forum, most of the ones you would get in life are most similar to their typical discussions; and:
+  - Sooner or later I probably notice such topics, especially if you ping me somehow there by username "tvaeli".
+  - Others interested in Laegna-SpiReason are not very visibly active there, but by having the same link each time here it's the *most probable* place to get some discussion going on, and if you can make life-close topic, which is *not just presentation of Laegna-SpiReason*, the topics are probably engaging - or if you make one, which *is just presentation of what you made up from Laegna-SpiReason*, then presentations are quite common there.
+
 # Diary
 
 I was walking at mountains at Tarragona - I am living in Barcelona - for four days. I have been at mountain walks for last years, but mostly feared - I do not directly fear height like in planes and helicopters, because it's quite comfortable death at the end, but at architecture and mountains I fear if I do not know the weight distribution: falling from balcony, maybe not logically but just somehow naturally, evokes past life memories in me of *death which feels the worst*, and it tends to come at the most unexpected moment. A few cases for infinity of lives, but just *very rememberable* - the whole story.
