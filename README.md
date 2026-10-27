@@ -1,3 +1,13 @@
+# Heraldics
+
+My simplification: my Russian Coat of Arms with single symbol left, fitting my Viking blood and hypothetical blue eyes of the blood, well, unmentioned now. Haha Carramba.
+
+This symbolizes my half-eastern blood over half-western:
+- A secret, maybe among the Eastern, but it's well all from middle east to Russian, Jew, Cossack or Muslim, Persian Bytsantzine or Sanskrit. It's all east. Even Siberia is watching us Vikings for Eastern North, Estonia "East-onia" being the north-east southern Europe sided by Asia, the Eastern Portal.
+- "Ä" in my name is consistently replaced with Russian "ja", whether in Latin or Vikingen Futhark letters.
+
+![Tambet Vjali](Gfx/TambetVjali.png)
+
 # Journalling
 
 What is jokingly called "[Business Headlines](https://github.com/tambetvali/LaegnaDocumentation/tree/main/BusinessHeadlines#business-headlines)" contains selected snapshots of statistics, mostly when something new happened. This is the journal of Laegna-SpiReason network in terms of user interaction.
