@@ -1,3 +1,14 @@
+# Pronounce Laegna
+
+Can you figure out how you say it in:
+- Estonian
+- Spanish
+- English
+
+In Estonian, it sounds very close; in Spanish, which is also very character-sure like Latin and Laegna in their "high-pitch" words often introduced here and whose sound is similar to Estonian, style has some possible roots in Spanish. Latin is the sure actual basin, which is the character-closest in it's own way, while Estonian is literally character-close and in Spanish, you learn that it's character-close, but my home capital "Tallinn" is pronounced "Tajjinn", because "ll" in Spanish sounds like "jj" - surely kind of impossible to write and explain because *one would still expect different sound*; so it comes closer with sure exception.
+
+English sound of "Laegna" is farthest of these three, to my own pronounciation: while I would not exclude it, especially if specific style could outspell "a" and "e" more strongly because in English you won't say "e", but for specific laegna words ..well say just "la'gna log'x" and you kn'w why googl' sp'lls it lik' this. It's not very acceptable if "e" is "2", if it's a plain exponent effect on other letters ..altough English *could* use different version of Laegna: where "e", in calculations, is harmonized with vocal position as mere exponent where it sounds so.
+
 # Heraldics
 
 My simplification: my Russian Coat of Arms with single symbol left, fitting my Viking blood and hypothetical blue eyes of the blood, well, unmentioned now. Haha Carramba.
