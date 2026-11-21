@@ -1,3 +1,13 @@
+# Introduction
+
+I am currently at Estonia, at my homeland, over some 13 years, meeting my family and thus no updates in this week period.
+
+For LaeGOS, I made [decoder.py](https://github.com/tambetvali/LaeGOS-Alpha/blob/main/LaeGOS-Skydrive/DataCore/discrete_base4.md) translation to javascript. This code is not tested and next best thing as I get some time, I go through this line by line and make sure it's 100% correct.
+
+[Decoder.py](https://github.com/tambetvali/LaeGOS-Alpha/blob/main/LaeGOS-Skydrive/Examples/decoder.py) itself is Laegna Number Database generator, which generates a number list and builds up, through [extensions.py](https://github.com/tambetvali/LaeGOS-Alpha/blob/main/LaeGOS-Skydrive/Examples/extensions.py), one you can easily edit without messing up the decoder, finally reaching [Laegna Number Database](https://github.com/tambetvali/LaeGOS-Alpha/blob/main/LaeGOS-Skydrive/Examples/complete.json), a json file, which contains all Laegna Numbers within length 0.5 (binary half-magnitude-digit) to 4 digits. 4 digits make up a complete Laegna Idealized Model Universe - all the infinity symmetries can be studied through this table. That was followed by [Laegna Lane Database](https://github.com/tambetvali/LaeGOS-Drivers-LaeAutomate/tree/main/gosdb-mini), one which allows to linearize logarithmic, linear and exponent functions so that each has single function which describes the whole function and comparison of those numbers gives result based on more significant component such as short or long term, so any function in existence compares as number, even chaotic functions which can still be encoded into single, gaussian-type number.
+
+This basically means that for those who are *serious* about programming Laegna systems, can do it anyway based on my last updates; who complain as if there was nothing - there is nothing wrong still, as they are not going to provide substantial effort to initial development of Laegna Number Systems and their Applications, but any Pioneer would do it already as they start to go.
+
 # Pronounce Laegna
 
 Can you figure out how you say it in:
